@@ -19,8 +19,8 @@ Repeat 3 times max
      // check auth result is true
      When authResult.success is true
           // End flow by returning authResult.uid
-          it_jbkbm = { success: true, data: { userId: "as9233Qz" } }
-          Finish it_jbkbm
+          it_gzmst = { success: true, data: { userId: "as9233Qz" } }
+          Finish it_gzmst
 // Auth failed after 3 retries, end flow by returning false
-it_hlghs = false
-Finish it_hlghs
+it_bporo = false
+Finish it_bporo
