@@ -70,7 +70,8 @@
 					"hasExtraData": false,
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -149,7 +150,8 @@
 					"hasExtraData": false,
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"positionAbsolute": {
@@ -199,7 +201,8 @@
 				"handles": [
 					"Agama-when-Node-a179c3c9-15aa-4e32-94e6-85ccf5b38274.FAILURE",
 					"Agama-when-Node-a179c3c9-15aa-4e32-94e6-85ccf5b38274.SUCCESS"
-				]
+				],
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -273,7 +276,8 @@
 					"hasExtraData": false,
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:equal"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -348,7 +352,8 @@
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:code",
 					"asssignedVariableName": "authResult.success"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -423,7 +428,8 @@
 					"configParams": "{}",
 					"nodeIcon": "ph:globe-simple",
 					"asssignedVariableName": "creds"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -498,7 +504,8 @@
 					"hasExtraData": false,
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:event-repeat-outline-rounded"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -572,7 +579,8 @@
 					"hasExtraData": false,
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:equal"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -647,7 +655,8 @@
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:code",
 					"asssignedVariableName": "cdiUtil"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -722,7 +731,8 @@
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:code",
 					"asssignedVariableName": "authService"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -787,10 +797,10 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"hasExtraData": false,
-					"configParams": "{}",
+					"configParams": "",
 					"nodeIcon": "material-symbols:line-start-square"
 				},
-				"skake": false
+				"skake": true
 			},
 			"position": {
 				"x": 30,
@@ -980,8 +990,8 @@
 		}
 	],
 	"viewport": {
-		"x": 55.67822315790306,
-		"y": 117.77233457652167,
+		"x": 110.10973251895075,
+		"y": 87.46269517508955,
 		"zoom": 0.5
 	}
 }
