@@ -1,1 +1,18 @@
-{}
+{
+    "test-agama-script": {
+        "projectName": "test-agama-script",
+        "description": "Testing out the agama script for additional authentication",
+        "type": "community",
+        "author": "Jackazjimmy000",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/Jackazjimmy000/Gluu_Installation_Prod_test_env",
+        "githubUri": "https://github.com/Jackazjimmy000/Gluu_Installation_Prod_test_env",
+        "license": "MIT",
+        "lastUpdated": "1697093676800",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
