@@ -13,6 +13,8 @@
             "authentication"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {
+            "gluu.otp": {}
+        }
     }
 }
