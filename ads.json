@@ -12,7 +12,9 @@
         "tags": [
             "authentication"
         ],
-        "noDirectLaunch": [],
+        "noDirectLaunch": [
+            "gluu.otp"
+        ],
         "configs": {
             "gluu.otp": {}
         }
