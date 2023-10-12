@@ -798,7 +798,10 @@
 					"exceptionVariableField": "",
 					"hasExtraData": false,
 					"configParams": "\"\"",
-					"nodeIcon": "material-symbols:line-start-square"
+					"nodeIcon": "material-symbols:line-start-square",
+					"timeout": "100",
+					"inputs": "salutation",
+					"configs": ""
 				},
 				"skake": true
 			},
@@ -990,8 +993,8 @@
 		}
 	],
 	"viewport": {
-		"x": 109.10973251895075,
-		"y": 87.46269517508955,
-		"zoom": 0.5
+		"x": 85.50881430544717,
+		"y": 87.82214224049623,
+		"zoom": 0.5000000000000001
 	}
 }
