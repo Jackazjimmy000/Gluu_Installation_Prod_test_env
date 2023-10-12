@@ -14,7 +14,7 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "gluu.otp": ""
+            "gluu.otp": {}
         }
     }
 }
