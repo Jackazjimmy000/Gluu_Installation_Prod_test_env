@@ -1,4 +1,3 @@
-// aefsdfbg
 Flow __________
      Basepath ""
 // Create Auth Service Instance
@@ -18,8 +17,8 @@ Repeat 3 times max
      // check auth result is true
      When authResult.success is true
           // End flow by returning authResult.uid
-          it_gfztg = { success: true, data: { userId: "as9233Qz" } }
-          Finish it_gfztg
+          it_sxnoy = { success: true, data: { userId: "as9233Qz" } }
+          Finish it_sxnoy
 // Auth failed after 3 retries, end flow by returning false
-it_xpkli = false
-Finish it_xpkli
+it_awhnn = false
+Finish it_awhnn
