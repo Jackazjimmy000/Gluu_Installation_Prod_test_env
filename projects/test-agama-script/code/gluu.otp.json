@@ -797,7 +797,7 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"hasExtraData": false,
-					"configParams": "",
+					"configParams": "\"\"",
 					"nodeIcon": "material-symbols:line-start-square"
 				},
 				"skake": true
@@ -990,7 +990,7 @@
 		}
 	],
 	"viewport": {
-		"x": 110.10973251895075,
+		"x": 109.10973251895075,
 		"y": 87.46269517508955,
 		"zoom": 0.5
 	}
