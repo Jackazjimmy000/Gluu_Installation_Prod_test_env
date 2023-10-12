@@ -761,7 +761,7 @@
 					"hasSuccess": false,
 					"hasFailure": false,
 					"hasRepeat": false,
-					"hasComment": true,
+					"hasComment": false,
 					"hasNoRepeat": false,
 					"isTopLevelFlow": true,
 					"inRepeatBlock": false,
