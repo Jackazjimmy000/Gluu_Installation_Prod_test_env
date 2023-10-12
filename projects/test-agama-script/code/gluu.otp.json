@@ -797,7 +797,7 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"hasExtraData": false,
-					"configParams": "\"\"",
+					"configParams": "{ }",
 					"nodeIcon": "material-symbols:line-start-square",
 					"timeout": "100",
 					"inputs": "salutation",
@@ -993,8 +993,8 @@
 		}
 	],
 	"viewport": {
-		"x": 85.50881430544717,
-		"y": 87.82214224049623,
-		"zoom": 0.5000000000000001
+		"x": 67.5116313628064,
+		"y": 68.90895610269125,
+		"zoom": 0.5743491774985174
 	}
 }
