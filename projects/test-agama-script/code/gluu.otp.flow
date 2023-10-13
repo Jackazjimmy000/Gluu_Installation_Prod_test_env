@@ -5,7 +5,7 @@ authService = Call io.jans.as.server.service.AuthenticationService#class
 // Init CDIUtil Object
 cdiUtil = Call io.jans.service.cdi.util.CdiUtil#bean authService
 // Declared Empty result Object
-authResult = "Another variable"
+authResult = ""hi""
 // Retry 3 times if username&password are wrong
 Repeat 3 times max
      // Load the login page to ask for username&password
@@ -17,8 +17,8 @@ Repeat 3 times max
      // check auth result is true
      When authResult.success is true
           // End flow by returning authResult.uid
-          it_hrqbd = { success: true, data: { userId: "as9233Qz" } }
-          Finish it_hrqbd
+          it_lkuwv = { success: true, data: { userId: "as9233Qz" } }
+          Finish it_lkuwv
 // Auth failed after 3 retries, end flow by returning false
-it_kriol = false
-Finish it_kriol
+it_xbafh = false
+Finish it_xbafh
