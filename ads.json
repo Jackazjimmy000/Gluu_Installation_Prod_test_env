@@ -16,7 +16,7 @@
             "gluu.otp"
         ],
         "configs": {
-            "gluu.otp": {}
+            "gluu.otp": "hi"
         }
     }
 }
